@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 1 line
 2 line
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -43,3 +44,6 @@ Second
 >>>>>>> 143f6e3 (First commit from new_branch)
 =======
 >>>>>>> 80f71244fbf9928a300699968178577656c8c5c6
+=======
+3 line
+>>>>>>> Stashed changes
