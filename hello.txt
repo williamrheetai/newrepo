@@ -2,17 +2,44 @@
 <<<<<<< HEAD
 1 line
 2 line
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+1 line
+2 line
+
+>>>>>>> f5fef2f (First commit from new_branch)
+=======
+=======
 
 =======
+>>>>>>> 80f71244fbf9928a300699968178577656c8c5c6
 
 First line
 Second line
 >>>>>>> 01a96d4 (First commit from new_branch)
 1
 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 7018a79 (First commit from main)
+=======
+=======
+>>>>>>> 80f71244fbf9928a300699968178577656c8c5c6
 
 =======
 
 First line
 Second line
 >>>>>>> 6b71032 (First commit from new_branch)
+<<<<<<< HEAD
+>>>>>>> f5fef2f (First commit from new_branch)
+=======
+First
+Second
+>>>>>>> 143f6e3 (First commit from new_branch)
+=======
+>>>>>>> 80f71244fbf9928a300699968178577656c8c5c6
