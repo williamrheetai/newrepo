@@ -1,11 +1,29 @@
+<<<<<<< HEAD
 1 line
 2 line
 <<<<<<< HEAD
 =======
 =======
+<<<<<<< HEAD
+<<<<<<< HEAD
+1 line
+2 line
+
+>>>>>>> f5fef2f (First commit from new_branch)
+=======
+
 First line
 Second line
 >>>>>>> 01a96d4 (First commit from new_branch)
 1
 2
+<<<<<<< HEAD
 >>>>>>> 7018a79 (First commit from main)
+=======
+
+=======
+
+First line
+Second line
+>>>>>>> 6b71032 (First commit from new_branch)
+>>>>>>> f5fef2f (First commit from new_branch)
