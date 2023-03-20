@@ -1,3 +1,7 @@
-# williamrhee_git
-# git_tutorial
-# git_tutorial
+# williamrhee_ git
+<<<<<<< HEAD
+# git_ tutorial
+
+# git_ tutorial
+=======
+>>>>>>> ddab03d (Update README.md)
